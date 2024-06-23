@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bartek\\Studia\\APBD\\APBD06\\Apbd06\\Apbd06\\Apbd06.csproj": {}
+    "C:\\Bartek\\Studia\\APBD\\APBD06\\APBD03\\APBD03\\APBD03.csproj": {}
   },
   "projects": {
-    "C:\\Bartek\\Studia\\APBD\\APBD06\\Apbd06\\Apbd06\\Apbd06.csproj": {
+    "C:\\Bartek\\Studia\\APBD\\APBD06\\APBD03\\APBD03\\APBD03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bartek\\Studia\\APBD\\APBD06\\Apbd06\\Apbd06\\Apbd06.csproj",
-        "projectName": "Apbd06",
-        "projectPath": "C:\\Bartek\\Studia\\APBD\\APBD06\\Apbd06\\Apbd06\\Apbd06.csproj",
+        "projectUniqueName": "C:\\Bartek\\Studia\\APBD\\APBD06\\APBD03\\APBD03\\APBD03.csproj",
+        "projectName": "APBD03",
+        "projectPath": "C:\\Bartek\\Studia\\APBD\\APBD06\\APBD03\\APBD03\\APBD03.csproj",
         "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "C:\\Bartek\\Studia\\APBD\\APBD06\\Apbd06\\Apbd06\\obj\\",
+        "outputPath": "C:\\Bartek\\Studia\\APBD\\APBD06\\APBD03\\APBD03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barte\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -40,7 +40,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

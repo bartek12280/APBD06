@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yB+d0o29o3rKGOU4nbqGu1lpeL7LG4TDHwYWoVzYKvu+DrE+qNJ9TbtvAozjHv3OMKi/sZylLRtkOTYaNML73w==",
+  "dgSpecHash": "iZkM6S2lTmra4a7ffknRKEtjiuRzM6RGc9D8Lp3y75sYnbx1Iw+6PJJ52H3Y+INsS2qLJ0EtHqOA9OYuq7HKAw==",
   "success": true,
-  "projectFilePath": "C:\\Bartek\\Studia\\APBD\\APBD06\\Apbd06\\Apbd06\\Apbd06.csproj",
+  "projectFilePath": "C:\\Bartek\\Studia\\APBD\\APBD06\\APBD03\\APBD03\\APBD03.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\barte\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\barte\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\barte\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\barte\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
