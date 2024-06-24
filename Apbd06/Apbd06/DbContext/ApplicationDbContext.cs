@@ -56,7 +56,7 @@ namespace APBD_s24774.Models
                       .WithMany(p => p.Prescriptions)
                       .HasForeignKey(e => e.PatientId);
                 entity.HasOne(e => e.Doctor)
-                      .WithMany(d => d.Prescriptions)
+                      .WithMany( d => d.Prescriptions)
                       .HasForeignKey(e => e.DoctorId);
             });
 
